@@ -31,18 +31,6 @@ class==> global
 id==> global
 type==>not global
 
- from 11 to 14
- task3
-<!-- Go To External Link -->
-<a href="https://google.com">Google</a>
- 
-<!-- Go To External Link and open in anther tab -->
-<a href="https://google.com" target="_blank">Google</a>
- 
- to لما اقف علي اللينك يظهر الكلمه دي
-<a href="https://google.com" title="to google">Google</a>
-toاروح علي ايميل الشخص 
-<a href="menna23@gmail.com" >contact me</a>
  
 
 
